@@ -1,0 +1,42 @@
+.box01 {
+    
+    position: static;
+    width: 1024px;
+    height: 780px;
+    background-image: url('../bilder/hintergrund.jpg') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 5px 13px;
+    /*background-position: center;*/
+     /*border: 1px solid hsl(88, 92%, 14%);*/
+    
+  } 
+  
+
+  .box02_bildoben   {
+      position: relative;
+        width: 830px;
+        height: 363px;
+        top: 12px;
+        left: 96px;
+          /*border: 1px solid fuchsia;*/
+
+  }
+
+  .box03_bildunten   {
+    position: relative;
+      width: 830px;
+      height: 354px;
+      top: 41px;
+      left: 95px;
+      /*border: 1px solid fuchsia;*/
+
+}
+
+.button_01 {
+  position: relative;
+  width: 75px;
+  height: 150px;
+  top: -210px;
+  left: 960px;
+}
