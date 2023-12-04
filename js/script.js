@@ -352,7 +352,7 @@ var element = document.getElementById("but01");
       }    
 
          // create random image number2 for the downside  
-         function getRandomNum2(min, max)   
+      function getRandomNum2(min, max)   
       {  
           // generate and return a random number for the image to be displayed  on the down side:  
           imgNo2 = Math.floor(Math.random() * (max - min + 1)) + min;  
