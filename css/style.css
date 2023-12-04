@@ -5,14 +5,13 @@
 body {
  height: 100%;
  margin: 0;
-  background-color: black;
+  background-color: white;
 }
 
 .bg {
     /* The image used */
     background-image: url("../bilder/");
-    background-color: black;
-    /* Full height */
+    background-color: white    /* Full height */
     height: 100%; 
   
     /* Center and scale the image nicely */
@@ -30,7 +29,7 @@ body {
   align-items: stretch;
 
   font-family: sans-serif;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 .flex-container > div {
   width: 100px;
@@ -53,7 +52,7 @@ body {
     /*background-position: center;*/
      /*border: 1px solid hsl(88, 92%, 14%);*/
      visibility: visible; /* Fügen Sie diese Zeile hinzu */
-     background-color: #000;
+     background-color: white;
   } 
   
 
