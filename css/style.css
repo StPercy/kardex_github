@@ -11,7 +11,7 @@ body {
 .bg {
     /* The image used */
     background-image: url("../bilder/");
-    background-color: white    /* Full height */
+    background-color: white ;   /* Full height */
     height: 100%; 
   
     /* Center and scale the image nicely */
